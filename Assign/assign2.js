@@ -1,3 +1,5 @@
+//assign 2 of js
+
 // 1. Question: Reverse a string without using the built-in reverse() method.
 let aString = "Reversing";
 let reversedArray = [];
